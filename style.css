@@ -1,0 +1,19 @@
+::selection{
+    background-color: #ff0084;
+  }
+  
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 2s;
+}
+
+body{
+
+}
+#box{
+     background: linear-gradient(to right, #33001b, #ff0084);
+}
